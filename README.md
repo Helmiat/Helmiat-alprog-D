@@ -1,5 +1,7 @@
 Nama:helmiati
 nim:24241120
+
+
 1.Langkah-Langkah Flowchart dengan nim sya genap
 maka hitung luas persegi! 
 
